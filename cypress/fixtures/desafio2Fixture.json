@@ -1,0 +1,14 @@
+{
+    "tareas": {
+        "tarea1": "Hacer las compras.",
+        "tarea2": "Cocinar",
+        "tarea3": "Limpiar el piso.",
+        "tarea4": "Colgar la ropa",
+        "tarea5": "Sacar al perro."
+    },
+
+    "info": {
+        "user": "caropit24",
+        "password": "123456!"
+    }
+}
